@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".navigation.StartScreen">
+
+    <ImageView
+        android:id="@+id/iV_difficultyDegree"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        app:layout_constraintBottom_toTopOf="@+id/iV_logo"
+        app:layout_constraintEnd_toStartOf="@+id/iV_changeData"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.238"
+        app:srcCompat="@drawable/difficulty2x2" />
+
+    <ImageView
+        android:id="@+id/iV_logo"
+        android:layout_width="220dp"
+        android:layout_height="174dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.317"
+        app:srcCompat="@drawable/logo_rund" />
+
+    <ImageView
+        android:id="@+id/iV_changeData"
+        android:layout_width="66dp"
+        android:layout_height="52dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/iV_logo"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.008"
+        app:srcCompat="@drawable/baseline_account_box_black_24" />
+
+    <ImageView
+        android:id="@+id/iV_play"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="44dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iV_logo"
+        app:srcCompat="@drawable/play" />
+
+</android.support.constraint.ConstraintLayout>

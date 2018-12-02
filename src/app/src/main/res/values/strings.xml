@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DysPuzzle</string>
+    <string name="weiter">Weiter</string>
+    <string name="name">Name</string>
+    <string name="weiblich">weiblich</string>
+    <string name="alter">Alter</string>
+    <string name="maennlich">männlich</string>
+    <string name="linkshaender">Linkshänder</string>
+    <string name="rechtshaender">Rechtshänder</string>
+    <string name="enterData">Bitte gib Deine Daten ein!</string>
+    <string name="geschlecht">Geschlecht</string>
+    <string name="abbrechen">Abbrechen</string>
+    <string name="enterNewData">Bitte gib Deine neuen Daten ein!</string>
+    <string name="test_mode">Test Mode</string>
+    <string name="Datenschutzerklärung">Für die Auswertung der Daten zur Früherkennung der Lese-/Rechtschreibstörung, werden das Alter des Kindes, die präferierte Hand und das Geschlecht benötigt. Zudem wird in der App abgefragt, ob das Kind bereits eine Diagnose der Lese-/Rechtschreibstörung vorliegen hat. Diese Daten werden lokal in der App gespeichert und ebenfalls anonymisiert in einer Datenbank hinterlegt. Außerdem werden Daten über die Spieltelemetrie an die Datenbank gesendet. Dazu geöhrt neben dem Spielverhalten (z.B. die Länge der Spielzeit) auch der ausgewählte Schwierigkeitsgrad und das Puzzlebild. Diese Daten werden über die App erfasst und mit einem Pseudonym in einer Datenbank hinterlegt. Die anonymisierten Daten (Daten zur Spieltelemetrie) werden nach guter wissenschaftlicher Praxis 10 Jahre aufbewahrt werden. Mit der beschriebenen Erhebung und Verarbeitung der Daten bin ich einverstanden. Die Aufzeichnung und Auswertung dieser Daten erfolgt pseudonymisiert im OFFIS - Institut für Informatik Oldenburg unter Verwendung einer Nummer (Pseudonym) und ohne Angabe meines Namens oder den Namen meines Kindes.</string>
+</resources>
