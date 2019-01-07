@@ -1,9 +1,10 @@
 # DysPuzzle  
-This resource musst be cited with the DOI:[10.5281/zenodo.2531996](10.5281/zenodo.2531996)
+This resource musst be cited with the DOI:[ 10.5281/zenodo.2531996](10.5281/zenodo.2531996)
 
 ## Description
 The game was implemented by Noelle Rousselle within her Bachelor thesis with the title "Entwicklung einer mobilen Anwendung zur Erforschung der Wahrnehmung einer Lese- /Rechtschreibstörung (Development of a mobile application for researching the perception of dyslexia)" at the Carl von Ossietzky University of Oldenburg (Fakultät VI- Department für Versorgungsforschung Assistenzsysteme und Medizintechnik (AMT)) in 2018.  
-Mentored by Maria Rauschenberger  M.Sc. orcid.org/0000-0001-5722-576X & Christian Lins M.Sc.  
+Mentored by Maria Rauschenberger  M.Sc. [ orcid.org/0000-0001-5722-576X](orcid.org/0000-0001-5722-576X)
+ & Christian Lins M.Sc.  
 Valued by Christian Lins, M.Sc. and Dr. rer. nat. Sebastian Fudickar
 
 ## Abstract
